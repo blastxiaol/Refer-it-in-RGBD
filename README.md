@@ -1,3 +1,5 @@
+# Clone from https://github.com/UncleMEDM/Refer-it-in-RGBD
+### Used for learning
 # Refer-it-in-RGBD
 <p align="center"><img src="docs/teaser.png" width="300px"/><img src="docs/projectpage.gif" width="330px"></p></br>
 This is the repository of our paper 'Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images' in CVPR 2021</br>
